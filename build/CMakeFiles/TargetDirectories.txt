@@ -1,0 +1,5 @@
+/home/awanardy/Documents/Projek/CEPEPEH/build/CMakeFiles/CameraApp.dir
+/home/awanardy/Documents/Projek/CEPEPEH/build/CMakeFiles/edit_cache.dir
+/home/awanardy/Documents/Projek/CEPEPEH/build/CMakeFiles/rebuild_cache.dir
+/home/awanardy/Documents/Projek/CEPEPEH/build/CMakeFiles/CameraApp_autogen_timestamp_deps.dir
+/home/awanardy/Documents/Projek/CEPEPEH/build/CMakeFiles/CameraApp_autogen.dir

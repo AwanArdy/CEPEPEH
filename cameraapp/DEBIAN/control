@@ -1,0 +1,8 @@
+Package: cameraapp
+Version: 1.0
+Section: base
+Priority: optional
+Architecture: amd64
+Depends: qtbase5-dev, qtchooser, qt5-qmake, qtbase5-dev-tools, libopencv-dev
+Maintainer: Awan Ardy
+Description: Aplikasi kamera menggunakan Qt dan OpenCV. Aplikasi ini memungkinkan pengguna untuk memilih dan menggunakan berbagai kamera yang terhubung ke sistem.
